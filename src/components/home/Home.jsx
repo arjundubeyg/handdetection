@@ -5,11 +5,9 @@ const Home = () => {
     return (
         <>
             <Header/>
-            <WhatComp/>
-            <Features/>
+            
             <Working/>
-            <CTA/>
-            <Testimonials/>
+          
         </>
     )
 }
